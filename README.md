@@ -1,2 +1,5 @@
-# learning-spring
-code written wile learning java spring framework
+# Learning Spring
+Code written wile learning java spring framework
+
+#### 8 Sept '16
+- Hello world in Maven
