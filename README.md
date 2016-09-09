@@ -6,3 +6,4 @@ Code written wile learning java spring framework
 - How to add dependencies in Maven
 - Using JUnit
 - Hello world in Gradle
+- add dependencies and using JUnit in Gradle
